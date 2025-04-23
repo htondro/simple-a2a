@@ -1,4 +1,4 @@
-# Simple A2A: Next-Gen Agent-to-Agent Communication Platform | Open Source
+# Simple A2A: Agent-to-Agent Communication in Next.js | Open Source
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.3.1-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-19.1.0-blue?style=for-the-badge&logo=react)](https://reactjs.org)
